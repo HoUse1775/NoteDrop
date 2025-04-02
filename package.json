@@ -1,0 +1,17 @@
+{
+    "name": "telegram-airdrop-bot",
+    "version": "1.0.0",
+    "description": "A Telegram bot that saves wallet addresses and airdrop data to Google Sheets.",
+    "main": "bot.js",
+    "scripts": {
+      "start": "node bot.js"
+    },
+    "dependencies": {
+      "telegraf": "^4.0.0",
+      "googleapis": "^39.0.0",
+      "dotenv": "^8.0.0"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
